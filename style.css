@@ -1,0 +1,36 @@
+#tabelaprawa{
+	align: right;
+	width: 80%;
+	background-color: cyan;
+	border-style: groove;
+	border: 10;
+}
+
+.tabelalewa{
+	align: left;
+	width: 20%;
+}
+
+#tabela{
+	background-color: cyan;
+}
+
+#tytulkot{
+	text-align: center;
+}
+
+#tytulpies{
+	text-align: center;
+}
+
+
+.tekstlewy{
+	text-align: right;
+}
+
+.przyciskwroc{
+	position: relative;
+	left: 48%;
+	top: 10px;
+	padding-bottom: 10px;
+}
